@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "700284651566",
+    "firebase_url": "https://remember-c42fd-default-rtdb.firebaseio.com",
+    "project_id": "remember-c42fd",
+    "storage_bucket": "remember-c42fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700284651566:android:3013f5ce1b5c4791a377bf",
+        "android_client_info": {
+          "package_name": "com.shreyachettiappa.remember"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700284651566-tngu8o5jqoal4s790f1h94ev3t07vgu3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkz5GnyPIlwv6OZDawMp3wKGVdzvDx6uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700284651566-tngu8o5jqoal4s790f1h94ev3t07vgu3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Remember" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#62438F</item>
+        <item name="colorPrimaryDark">#6435BA</item>
+        <item name="colorAccent">#881DA3</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
